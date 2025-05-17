@@ -13,4 +13,5 @@
   pip install -r requirements.txt
 
 ## Запуск
+```bash
 python src/botnet_detector.py
